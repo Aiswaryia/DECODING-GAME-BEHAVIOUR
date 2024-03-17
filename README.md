@@ -9,6 +9,7 @@ Objective is to extract insights and perform analysis on player behavior, level 
 **Dataset Description:**
 
 **Player Details Table:**
+
 P_ID: Player ID
 
 PName: Player Name
@@ -22,6 +23,7 @@ L1_code: System-generated Level 1 Code
 L2_code: System-generated Level 2 Code
 
 **Level Details Table:**
+
 P_ID: Player ID
 
 Dev_ID: Device ID
